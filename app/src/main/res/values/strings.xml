@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Group03_InClass09</string>
+    <string name="et_password_label">Password</string>
+    <string name="et_email_label">Email</string>
+    <string name="button_login_label">Login</string>
+    <string name="button_signup_label">Register</string>
+    <string name="SHARED_PREFERENCES_LOGGED_USER_INFO">USER_LOGGED_IN</string>
+    <string name="SHARED_PREFERENCES_MESSSAGES">USER_MESSAGES</string>
+    <string name="SHARED_PREFERENCES_USER_LIST">USER_LIST</string>
+    <string name="et_subject_label">Subject</string>
+    <string name="tv_message_label">Note</string>
+    <string name="btn_send_id">Add</string>
+    <string name="btn_cancel_id">Cancel</string>
+    <string name="btn_close_label">Close</string>
+    <string name="label_et_firstName">Name</string>
+    <string name="label_et_lastName">Last Name</string>
+    <string name="label_et_email_id">Email Id</string>
+    <string name="label_et_choosePassword">Enter Password</string>
+    <string name="label_et_repeatPassword">Enter Confirm Password</string>
+    <string name="label_btn_sign_up">Register</string>
+    <string name="label_btn_cancel">Cancel</string>
+    <string name="btn_delete_id">Delete</string>
+    <string name="btn_ok_label">OK</string>
+</resources>
